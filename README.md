@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**julianadeveloper/julianadeveloper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Ferramentas e Tecnologias que estudo atualmente:
 
@@ -14,15 +12,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           
-
-
-
-
-
-
-
-
-
-
-
--->
